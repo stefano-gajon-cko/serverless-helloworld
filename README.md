@@ -1,6 +1,6 @@
 # serverless-helloworld
 
-##  simple aws lambda using serverless platform and .net core
+##  simple aws lambda using [serverless platform](https://serverless.com/framework/docs/providers/aws/examples/hello-world/csharp/#1-create-a-service) and .net core
 
 
 1) Install serverless:
@@ -37,4 +37,6 @@ dotnet add package Amazon.Lambda.APIGatewayEvents
 
 6. Deploy
 
-``` serverless deploy ```
+``` 
+serverless deploy 
+```
